@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/drawable/courses.xml" value="0.1" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/dialog_add_courses.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/dialog_delete.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/dialog_edit_groups.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/dialog_edit_mentors.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/fragment_add_groups.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/fragment_add_mentors.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/fragment_course.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/fragment_edit_student.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/fragment_groups.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/fragment_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/fragment_item2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/fragment_mentors.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/fragment_show_course.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/fragment_show_groups.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/item_courses.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/item_groups.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/item_mentors.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/item_spinner.xml" value="0.20652173913043478" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/item_students.xml" value="0.20652173913043478" />
+        <entry key="..\:/Program Files/CodialAPP-master/app/src/main/res/layout/main_dialog.xml" value="0.20652173913043478" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
